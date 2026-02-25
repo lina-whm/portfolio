@@ -24,7 +24,6 @@ const Footer = () => {
             <ul>
               <li>Краснодар</li>
               <li>polina.nikolskaia@gmail.com</li>
-              <li>@li1nsd</li>
             </ul>
           </div>
         </div>

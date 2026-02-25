@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FaGithub, FaTelegram } from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub } from 'react-icons/fa';
 import './Header.css';
 
 const Header = () => {
@@ -28,7 +28,6 @@ const Header = () => {
           
           <div className="social-icons">
             <a href="https://github.com/lina-whm" target="_blank" rel="noreferrer"><FaGithub /></a>
-            <a href="https://t.me/li1nsd" target="_blank" rel="noreferrer"><FaTelegram /></a>
           </div>
           
           <button className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>

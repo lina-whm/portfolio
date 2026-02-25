@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaMapMarkerAlt, FaGithub, FaTelegram } from 'react-icons/fa';
+import { FaEnvelope, FaMapMarkerAlt, FaGithub} from 'react-icons/fa';
 import './Contact.css';
 
 const Contact = () => {
@@ -54,9 +54,6 @@ const Contact = () => {
                 <div className="social-icons">
                   <a href="https://github.com/lina-whm" target="_blank" rel="noreferrer" className="social-icon">
                     <FaGithub />
-                  </a>
-                  <a href="https://t.me/li1nsd" target="_blank" rel="noreferrer" className="social-icon">
-                    <FaTelegram />
                   </a>
                 </div>
               </div>
