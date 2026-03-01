@@ -111,6 +111,7 @@ npm run build
 # Деплой на GitHub Pages
 npm run deploy
 ```
+## Структура проекта
 
 ```bash
 portfolio/
