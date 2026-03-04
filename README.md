@@ -112,7 +112,6 @@ npm run build
 npm run deploy
 ```
 ## Структура проекта
-
 ```bash
 portfolio/
 ├── public/                    # Статические файлы
